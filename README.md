@@ -28,7 +28,7 @@ and tolerance and makes stronger communities. I enjoy new challenges that allow 
 * **_Amazon.com Product Review Abuse Investigator, ES_** _Sep 17- Dec 18, Downtown Seattle, WA_
   * Worked in partnership with Product Management and Business teams to gather requirements to implement proactive measures and work on a feedback loop to continuously improve accuracy in the Review System. 
   * Investigated suspicious activities and behaviors that could pose a risk to Amazon or our customers in global markets
-  * Identify known fraud patterns, discover new modus operandi trends and take actions to minimize risks for Spanish Speaking Market-Places
+  * Identified known fraud patterns to discover new modus operandi trends and take actions to minimize risks for Spanish Speaking Market-Places
 
 * **_Amazon.com Seller Support Associate S_** _Aug 16- Sep 15, Downtown Seattle, WA_ 
   * Seller Support to Amazon Sellers in North America Region, eliminated challenges to bring sellers to our platform
