@@ -52,7 +52,7 @@ and tolerance and makes stronger communities. I enjoy new challenges that allow 
 * **_Universal Language Service, Inc. Spanish Interpreter_** _Aug 14- Jan 16 Multiple locations, WA_
   * Interpreting support and voluntering in multiple areas: Healthcare; Behavioral Health; Rehabilitation, Drug and Alcohol; Vocational; Protective Services, Adult and Children; Socio-Economic Benefits; Employment; Law Enforcement; General; Business, Marketing; Education and Others (Noncertified).
   
-* **_AeroMexico , Passenger Services Agent_** _Jan 10- Dec 12 Mexico City, Internatinal Airport, Mexico
+* **_AeroMexico , Passenger Services Agent_** _Jan 10- Dec 12 Mexico City, Internatinal Airport, Mexico_
   * Inspected and verified passenger documentation, issued boarding passes and reschedule passengers affected by flight interruptions or cancellations
   * Complied with all federal, state, municipal, airport authority and carrier security requirements
   * Assisted passengers as needed through arrival and check in processes including support for passengers with special needs such as unaccompanied minors (UM), VIP passengers and passengers needing wheelchair assistance
