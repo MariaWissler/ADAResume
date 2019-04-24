@@ -10,7 +10,7 @@ and tolerance and makes stronger communities. I enjoy new challenges that allow 
 **Education**
 
 * Ada Developers Academy, Student in tuition-free, full-time full-stack web development program for women and people of non-binary gender, Jan. 2019 - current
-* Bellevue College, Translation and Interpretation Certification _(Present)_ and American Sign Language _(Basic)_. 
+* Bellevue College, Translation and Interpretation Certification 
 * WAAC Virginia Tech, Architecture. _Scholarship Aug 2008- Jan 2010_.
 * UNAM Architecture, _Mexico City 2013_.
 
