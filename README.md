@@ -3,7 +3,7 @@
 
 **A little about me**
 
-> I am a former architect, I have always enjoyed the diverse expressions of human nature. I strongly believe in the values that technology and diversity bring to our daily interactions. As a Software Development Student I want to participate in creating a future where technology is commun language that reaches everyone who is curious, promotes mutual understanding 
+> As a former architect, I have always enjoyed the diverse expressions of human nature. I strongly believe in the values that technology and diversity bring to our daily interactions. As a Software Development Student I want to participate in creating a future where technology is commun language that reaches everyone who is curious, promotes mutual understanding 
 and tolerance and makes stronger communities. I enjoy new challenges that allow me to use my education, skills and experience towards the continuous improvement of our society, bringing people together has always inspire me! 
 
 
