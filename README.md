@@ -3,11 +3,13 @@
 
 **A little about me**
 
-> I am a former architect, I have always enjoyed the diverse expressions of human nature, reason why I later reached to interpretation and translation studies, leading me to positions in technology as is Amazon. I strongly believe in the values that technology and diversity bring to our daily life activities and interactions, promoting mutual understanding and tolerance and making stronger communities, I believe in a future where technology is commun language that reaches everyone who is curious. I enjoy new challenges that allow me to use my education, skills and experience towards the continuous improvement of our society, bringing people together has always inspire me! 
+> I am a former architect, I have always enjoyed the diverse expressions of human nature. I strongly believe in the values that technology and diversity bring to our daily interactions. As a Software Development Student I want to participate in creating a future where technology is commun language that reaches everyone who is curious, promotes mutual understanding 
+and tolerance and makes stronger communities. I enjoy new challenges that allow me to use my education, skills and experience towards the continuous improvement of our society, bringing people together has always inspire me! 
 
 
 **Education**
 
+* Ada Developers Academy, Student in tuition-free, full-time full-stack web development program for women and people of non-binary gender, Jan. 2019 - current
 * Bellevue College, Translation and Interpretation Certification _(Present)_ and American Sign Language _(Basic)_. 
 * WAAC Virginia Tech, Architecture. _Scholarship Aug 2008- Jan 2010_.
 * UNAM Architecture, _Mexico City 2013_.
