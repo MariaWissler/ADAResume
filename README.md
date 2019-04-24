@@ -33,7 +33,7 @@ and tolerance and makes stronger communities. I enjoy new challenges that allow 
   * Used a wide range of internet and in-house tools to research transactions and gather data to make accurate decisions
   * Take appropriate actions to identify and help minimize Amazon’s financial, legal and reputational risk
 
-* **_Amazon.com Seller Support Associate S_** _Aug 16- Sep 15,Downtown Seattle, WA_ 
+* **_Amazon.com Seller Support Associate S_** _Aug 16- Sep 15, Downtown Seattle, WA_ 
   * Seller Support to Amazon Sellers in North America Region, eliminated challenges to bring sellers to our platform
   * Continually built our platform and business knowledge to better serve our sellers by gathering Data to process product applications
   * Effectively manage sensitive cases by identifying proper escalation paths
