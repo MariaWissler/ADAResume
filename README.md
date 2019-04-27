@@ -38,7 +38,7 @@ and tolerance and makes stronger communities. I enjoy new challenges that allow 
   * Continually built our platform and business knowledge to better serve our sellers by gathering Data to process product applications
   * Effectively manage sensitive cases by identifying proper escalation paths
 
-<img src="https://user-images.githubusercontent.com/31623564/56844716-bb9d1700-6869-11e9-9a91-26b1db4a9133.png" width="100" height="150">
+<img src="https://user-images.githubusercontent.com/31623564/56844716-bb9d1700-6869-11e9-9a91-26b1db4a9133.png" width="150" height="20">
 * **_Nintendo of America, Bilingual Customer Service Representative_** _Oct 14- Feb 16, Redmond WA_
   * Answered-Outbound calls and e-mails to provide technical assistance to users experiencing problems with the Nintendo gaming systems  
   * Researched specific issues and created free-writes in Spanish for knowledge database 
