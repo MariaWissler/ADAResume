@@ -3,7 +3,7 @@
 > * [My LinkedIn](https://www.linkedin.com/in/maria-w-aaab9a15a/)
 > * mwissl@uw.edu
 
-## **A little about me**
+#### **A little about me**
 
 > As a former architect, I have always enjoyed the diverse expressions of human nature. I strongly believe in the values 
 that technology and diversity bring to our daily interactions. As a Software Development Student I want to participate in creating a future where technology is common language that reaches everyone who is curious, promotes mutual understanding 
@@ -18,7 +18,7 @@ and tolerance and makes communities stronger. I enjoy new challenges that allow 
 
 
 
-# **Education**
+#### **Education**
 
 * Ada Developers Academy, Student in tuition-free, full-time full-stack web development program for women and people of non-binary gender, _Jan. 2019 - current_
 * Bellevue College, Translation and Interpretation _Certification_ 
@@ -26,7 +26,7 @@ and tolerance and makes communities stronger. I enjoy new challenges that allow 
 * UNAM Architecture, _Mexico City 2013_.
 
 
-**Qualifications**
+#### **Qualifications**
 
 * Knowledge of Ruby, HTML & CSS, Rails, Web APIs, JavaScript, Test-Driven Development, familiar R and Data Analysis
 * Over 8 years of Customer Service Experience
@@ -34,7 +34,7 @@ and tolerance and makes communities stronger. I enjoy new challenges that allow 
 * Native Spanish Speaker, _bicultural competence_
 * Excellent organizational skills, scheduling, problem solving, locating resources, _self learner_
 
-**Experience**
+#### **Experience**
 
 ![](http://media.corporate-ir.net/media_files/IROL/25/251199/Logo2017/Amazon/amazon_es_col_RGB-tn.png)
 * **_Amazon.com Product Review Abuse Investigator, ES_** _Sep 17- Dec 18, Downtown Seattle, WA_
