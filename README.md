@@ -1,9 +1,9 @@
 
-## Maria Wissler
+### Maria Wissler
 > * [My LinkedIn](https://www.linkedin.com/in/maria-w-aaab9a15a/)
 > * mwissl@uw.edu
 
-**A little about me**
+## **A little about me**
 
 > As a former architect, I have always enjoyed the diverse expressions of human nature. I strongly believe in the values 
 that technology and diversity bring to our daily interactions. As a Software Development Student I want to participate in creating a future where technology is common language that reaches everyone who is curious, promotes mutual understanding 
@@ -17,7 +17,8 @@ and tolerance and makes communities stronger. I enjoy new challenges that allow 
 * [Hotel](https://github.com/MariaWissler/HotelExercise)
 
 
-**Education**
+
+# **Education**
 
 * Ada Developers Academy, Student in tuition-free, full-time full-stack web development program for women and people of non-binary gender, _Jan. 2019 - current_
 * Bellevue College, Translation and Interpretation _Certification_ 
