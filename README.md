@@ -26,7 +26,7 @@ and tolerance and makes stronger communities. I enjoy new challenges that allow 
 
 **Experience**
 
-![stack Overflow](http://lmsotfy.com/so.png)
+![stack Overflow](shorturl.at/aenpw)
 * **_Amazon.com Product Review Abuse Investigator, ES_** _Sep 17- Dec 18, Downtown Seattle, WA_
   * Worked in partnership with Product Management and Business teams to gather requirements to implement proactive measures and work on a feedback loop to continuously improve accuracy in the Review System. 
   * Investigated suspicious activities and behaviors that could pose a risk to Amazon or our customers in global markets
