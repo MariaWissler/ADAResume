@@ -38,7 +38,7 @@ and tolerance and makes stronger communities. I enjoy new challenges that allow 
   * Continually built our platform and business knowledge to better serve our sellers by gathering Data to process product applications
   * Effectively manage sensitive cases by identifying proper escalation paths
 
-<img src="https://user-images.githubusercontent.com/31623564/56844982-92cb5080-686e-11e9-8829-0417570d8673.png" width="180" height= "35">
+<img src="https://user-images.githubusercontent.com/31623564/56844982-92cb5080-686e-11e9-8829-0417570d8673.png" width="180" height= "45">
 
 * **_Nintendo of America, Bilingual Customer Service Representative_** _Oct 14- Feb 16, Redmond WA_
   * Answered-Outbound calls and e-mails to provide technical assistance to users experiencing problems with the Nintendo gaming systems  
@@ -51,12 +51,12 @@ and tolerance and makes stronger communities. I enjoy new challenges that allow 
   * Performed patient scheduling, registration processes, insurance verification, maintained account information, co-payments,and billing inquiry functions. Assisted in maintaining medical records, filing systems, and account balances, setup patient follow-up and support after delivery.
    * Interpreted patient visits and Pharmacy recommendations
 
-<img src="https://user-images.githubusercontent.com/31623564/56844740-19c9fa00-686a-11e9-824c-64ae12abd0bb.png" width="180" height= "35">
+<img src="https://user-images.githubusercontent.com/31623564/56844740-19c9fa00-686a-11e9-824c-64ae12abd0bb.png" width="180" height= "40">
 
 * **_Universal Language Service, Inc. Spanish Interpreter_** _Aug 14- Jan 16 Multiple locations, WA_
   * Interpreting support and voluntering in multiple areas: Healthcare; Behavioral Health; Rehabilitation, Drug and Alcohol; Vocational; Protective Services, Adult and Children; Socio-Economic Benefits; Employment; Law Enforcement; General; Business, Marketing; Education and Others (Noncertified).
 
-<img src="https://user-images.githubusercontent.com/31623564/56844750-4d0c8900-686a-11e9-9333-657f4d612041.png" width="180" height= "35">
+<img src="https://user-images.githubusercontent.com/31623564/56844750-4d0c8900-686a-11e9-9333-657f4d612041.png" width="180" height= "60">
 
 * **_AeroMexico , Passenger Services Agent_** _Jan 10- Dec 12 Mexico City, Internatinal Airport, Mexico_
   * Inspected and verified passenger documentation, issued boarding passes and reschedule passengers affected by flight interruptions or cancellations
