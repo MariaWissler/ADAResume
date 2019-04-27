@@ -8,11 +8,11 @@
 and tolerance and makes stronger communities. I enjoy new challenges that allow me to use my education, skills and experience towards the continuous improvent of user experiences, bringing people together has always inspire me! 
 
 > If you have some additional time, here are some links for projects I developed as part of the Ada curriculum:
-[SecondRideShare](https://github.com/MariaWissler/SeconRideShare)
-[DeployedRideShare](https://github.com/MariaWissler/RailsRidePairProject)
-[TaskList](https://github.com/MariaWissler/MyTaskList)
-[We had some fun with APIs!](https://github.com/MariaWissler/SlackAPIproject)
-[Hotel](https://github.com/MariaWissler/HotelExercise)
+* [SecondRideShare](https://github.com/MariaWissler/SeconRideShare)
+* [DeployedRideShare](https://github.com/MariaWissler/RailsRidePairProject)
+* [TaskList](https://github.com/MariaWissler/MyTaskList)
+* [We had some fun with APIs!](https://github.com/MariaWissler/SlackAPIproject)
+* [Hotel](https://github.com/MariaWissler/HotelExercise)
 
 
 **Education**
