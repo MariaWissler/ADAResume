@@ -32,29 +32,32 @@ and tolerance and makes stronger communities. I enjoy new challenges that allow 
   * Investigated suspicious activities and behaviors that could pose a risk to Amazon or our customers in global markets
   * Identified known fraud patterns to discover new modus operandi trends and take actions to minimize risks for Spanish Speaking Market-Places
 
-<img src="" width="170" height="35" >
+<img src="https://user-images.githubusercontent.com/31623564/56844897-09674e80-686d-11e9-8708-3f3cad3610ff.png" width="170" height="35" >
 * **_Amazon.com Seller Support Associate S_** _Aug 16- Sep 15, Downtown Seattle, WA_ 
   * Seller Support to Amazon Sellers in North America Region, eliminated challenges to bring sellers to our platform
   * Continually built our platform and business knowledge to better serve our sellers by gathering Data to process product applications
   * Effectively manage sensitive cases by identifying proper escalation paths
 
-<img src="![Snip 2019-04-26 21 58 52](https://user-images.githubusercontent.com/31623564/56844982-92cb5080-686e-11e9-8829-0417570d8673.png)" width="180" height= "35">
+<img src="https://user-images.githubusercontent.com/31623564/56844982-92cb5080-686e-11e9-8829-0417570d8673.png" width="180" height= "35">
 
 * **_Nintendo of America, Bilingual Customer Service Representative_** _Oct 14- Feb 16, Redmond WA_
   * Answered-Outbound calls and e-mails to provide technical assistance to users experiencing problems with the Nintendo gaming systems  
   * Researched specific issues and created free-writes in Spanish for knowledge database 
   * Fraud investigation, engaging in frequent verbal communication with the customers and department management.
   
-![neighborcare_greenlogo2x](https://user-images.githubusercontent.com/31623564/56844724-eb4c1f00-6869-11e9-881d-7e11b9129294.png) 
+<img src="https://user-images.githubusercontent.com/31623564/56845141-551bf700-6871-11e9-96a0-60266ab762b9.png" width="180" height= "35">
+
 * **_NeighborCare Health at Columbia City, Bilingual Patient Service Representative_** _April- Aug 17, Columbia City WA_
   * Performed patient scheduling, registration processes, insurance verification, maintained account information, co-payments,and billing inquiry functions. Assisted in maintaining medical records, filing systems, and account balances, setup patient follow-up and support after delivery.
    * Interpreted patient visits and Pharmacy recommendations
 
-![uls_logo-300x106](https://user-images.githubusercontent.com/31623564/56844740-19c9fa00-686a-11e9-824c-64ae12abd0bb.png)
+<img src="https://user-images.githubusercontent.com/31623564/56844740-19c9fa00-686a-11e9-824c-64ae12abd0bb.png" width="180" height= "35">
+
 * **_Universal Language Service, Inc. Spanish Interpreter_** _Aug 14- Jan 16 Multiple locations, WA_
   * Interpreting support and voluntering in multiple areas: Healthcare; Behavioral Health; Rehabilitation, Drug and Alcohol; Vocational; Protective Services, Adult and Children; Socio-Economic Benefits; Employment; Law Enforcement; General; Business, Marketing; Education and Others (Noncertified).
 
-![aeromexico_horizontal_0](https://user-images.githubusercontent.com/31623564/56844750-4d0c8900-686a-11e9-9333-657f4d612041.png =100x150)
+<img src="https://user-images.githubusercontent.com/31623564/56844750-4d0c8900-686a-11e9-9333-657f4d612041.png" width="180" height= "35">
+
 * **_AeroMexico , Passenger Services Agent_** _Jan 10- Dec 12 Mexico City, Internatinal Airport, Mexico_
   * Inspected and verified passenger documentation, issued boarding passes and reschedule passengers affected by flight interruptions or cancellations
   * Complied with all federal, state, municipal, airport authority and carrier security requirements
