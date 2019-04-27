@@ -32,13 +32,14 @@ and tolerance and makes stronger communities. I enjoy new challenges that allow 
   * Investigated suspicious activities and behaviors that could pose a risk to Amazon or our customers in global markets
   * Identified known fraud patterns to discover new modus operandi trends and take actions to minimize risks for Spanish Speaking Market-Places
 
-<img src="shorturl.at/zCS09" width="170" height="35" >
+<img src="" width="170" height="35" >
 * **_Amazon.com Seller Support Associate S_** _Aug 16- Sep 15, Downtown Seattle, WA_ 
   * Seller Support to Amazon Sellers in North America Region, eliminated challenges to bring sellers to our platform
   * Continually built our platform and business knowledge to better serve our sellers by gathering Data to process product applications
   * Effectively manage sensitive cases by identifying proper escalation paths
 
-<img src="shorturl.at/dhoVZ" width="170" height="35">
+<img src="![Snip 2019-04-26 21 58 52](https://user-images.githubusercontent.com/31623564/56844982-92cb5080-686e-11e9-8829-0417570d8673.png)" width="180" height= "35">
+
 * **_Nintendo of America, Bilingual Customer Service Representative_** _Oct 14- Feb 16, Redmond WA_
   * Answered-Outbound calls and e-mails to provide technical assistance to users experiencing problems with the Nintendo gaming systems  
   * Researched specific issues and created free-writes in Spanish for knowledge database 
