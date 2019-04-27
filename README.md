@@ -26,7 +26,7 @@ and tolerance and makes stronger communities. I enjoy new challenges that allow 
 
 **Experience**
 
-![stack Overflow](shorturl.at/aenpw)
+![](http://media.corporate-ir.net/media_files/IROL/25/251199/Logo2017/Amazon/amazon_es_col_RGB-tn.png)
 * **_Amazon.com Product Review Abuse Investigator, ES_** _Sep 17- Dec 18, Downtown Seattle, WA_
   * Worked in partnership with Product Management and Business teams to gather requirements to implement proactive measures and work on a feedback loop to continuously improve accuracy in the Review System. 
   * Investigated suspicious activities and behaviors that could pose a risk to Amazon or our customers in global markets
