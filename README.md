@@ -1,7 +1,7 @@
 
 ## Maria Wissler
-> * [I have a LinkedIn](https://www.linkedin.com/in/maria-w-aaab9a15a/)
-> * [Feel free to em@il me at:](mwissl@uw.edu)
+> * [My LinkedIn](https://www.linkedin.com/in/maria-w-aaab9a15a/)
+> * [My Email](mwissl@uw.edu)
 
 **A little about me**
 
