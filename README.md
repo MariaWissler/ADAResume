@@ -51,7 +51,7 @@ and tolerance and makes stronger communities. I enjoy new challenges that allow 
 
 * **_Nintendo of America, Bilingual Customer Service Representative_** _Oct 14- Feb 16, Redmond WA_
   * Answered-Outbound calls and e-mails to provide technical assistance to users experiencing problems with the Nintendo gaming systems  
-  * Researched specific issues and created free-writes in Spanish for knowledge database 
+  * Researched specific issues and created free-writes in Spanish for knowledge database, including prepation for product launch 
   * Fraud investigation, engaging in frequent verbal communication with the customers and department management.
   
 <img src="https://user-images.githubusercontent.com/31623564/56845141-551bf700-6871-11e9-96a0-60266ab762b9.png" width="180" height= "35">
