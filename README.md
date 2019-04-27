@@ -1,7 +1,7 @@
 
 ## Maria Wissler
 > * [My LinkedIn](https://www.linkedin.com/in/maria-w-aaab9a15a/)
-> * [My Email](mwissl@uw.edu)
+> * (mwissl@uw.edu)
 
 **A little about me**
 
