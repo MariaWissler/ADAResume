@@ -5,8 +5,9 @@
 
 **A little about me**
 
-> As a former architect, I have always enjoyed the diverse expressions of human nature. I strongly believe in the values that technology and diversity bring to our daily interactions. As a Software Development Student I want to participate in creating a future where technology is common language that reaches everyone who is curious, promotes mutual understanding 
-and tolerance and makes communities stronger. I enjoy new challenges that allow me to use my education, skills and experience towards the continuous improvent of user experiences, bringing people together has always inspire me! Feel free to ask me about my sustainable housing designs, including urban farming. 
+> As a former architect, I have always enjoyed the diverse expressions of human nature. I strongly believe in the values 
+that technology and diversity bring to our daily interactions. As a Software Development Student I want to participate in creating a future where technology is common language that reaches everyone who is curious, promotes mutual understanding 
+and tolerance and makes communities stronger. I enjoy new challenges that allow me to use my education, skills and experience towards the continuous improvent of user experiences, bringing people together has always inspire me! For a fun fact, feel free to ask me about my sustainable housing designs, including urban farming. 
 
 > If you have some additional time, here are some links for projects I developed as part of the Ada curriculum:
 * [SecondRideShare](https://github.com/MariaWissler/SeconRideShare)
