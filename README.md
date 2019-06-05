@@ -1,7 +1,7 @@
 
 ## Maria Wissler
 > * [My LinkedIn](https://www.linkedin.com/in/maria-w-aaab9a15a/)
-> * mwissl@uw.edu
+> * wmcarmelina@gmail.com
 
 #### **A little about me**
 
@@ -10,6 +10,8 @@ that technology and diversity bring to our daily interactions. As a Software Dev
 and tolerance and makes communities stronger. I enjoy new challenges that allow me to use my education, skills and experience towards the continuous improvent of user experiences, bringing people together has always inspire me! For a fun fact, feel free to ask me about my sustainable housing designs, including urban farming. 
 
 > If you have some additional time, here are some links for projects I developed as part of the Ada curriculum:
+
+* [TheSweetness](http://the-sweetness.herokuapp.com/) A full working app working on a 4 people team ! 
 * [SecondRideShare](https://github.com/MariaWissler/SeconRideShare)
 * [DeployedRideShare](https://github.com/MariaWissler/RailsRidePairProject)
 * [TaskList](https://github.com/MariaWissler/MyTaskList)
