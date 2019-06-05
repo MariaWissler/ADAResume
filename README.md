@@ -11,7 +11,8 @@ and tolerance and makes communities stronger. I enjoy new challenges that allow 
 
 > If you have some additional time, here are some links for projects I developed as part of the Ada curriculum:
 
-* [TheSweetness](http://the-sweetness.herokuapp.com/) A full working app working on a 4 people team ! 
+* [TheSweetness](http://the-sweetness.herokuapp.com/)
+  (A full working app working on a 4 people team !)
 * [SecondRideShare](https://github.com/MariaWissler/SeconRideShare)
 * [DeployedRideShare](https://github.com/MariaWissler/RailsRidePairProject)
 * [TaskList](https://github.com/MariaWissler/MyTaskList)
