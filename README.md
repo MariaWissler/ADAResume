@@ -39,7 +39,7 @@ and tolerance and makes communities stronger. I enjoy new challenges that allow 
 
 #### **Experience**
 
-<img src="https://github.com/MariaWissler/ADAResume/issues/3#issuecomment-547635619" width="170" height="40" >
+<img src="https://github.com/MariaWissler/ADAResume/issues/4#issue-514235180" width="170" height="40" >
 
 * **_Nordstrom Technology Intern_** _Aug 19- Current, Downtown Seattle, WA_
   * Currently working on developing an internal UI tool for product distribution in React with a Java/Springboot backend 
