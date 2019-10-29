@@ -31,13 +31,18 @@ and tolerance and makes communities stronger. I enjoy new challenges that allow 
 
 #### **Qualifications**
 
-* Knowledge of Ruby, HTML & CSS, Rails, Web APIs, JavaScript, Test-Driven Development, familiar R and Data Analysis
+* Knowledge of Java, JS, Ruby, SpringBoot, HTML & CSS, Rails, Web APIs, Test-Driven Development, familiar R and Data Analysis
 * Over 8 years of Customer Service Experience
 * Interpersonal communication, collaboration, team player 
 * Native Spanish Speaker, _bicultural competence_
 * Excellent organizational skills, scheduling, problem solving, locating resources, _self learner_
 
 #### **Experience**
+
+* **_Nordstrom Technology Intern_** _Aug 19- Current, Downtown Seattle, WA_
+  * Currently working on developing an internal UI tool for product distribution in React with a Java/Springboot backend 
+  * Familiarize with Agile/Spritn methodologies 
+  * Currently adquiring knowledge in Docker, K8s and AWS
 
 ![](http://media.corporate-ir.net/media_files/IROL/25/251199/Logo2017/Amazon/amazon_es_col_RGB-tn.png)
 * **_Amazon.com Product Review Abuse Investigator, ES_** _Sep 17- Dec 18, Downtown Seattle, WA_
@@ -72,8 +77,4 @@ and tolerance and makes communities stronger. I enjoy new challenges that allow 
 
 <img src="https://user-images.githubusercontent.com/31623564/56845203-35390300-6872-11e9-84e5-b7d917043017.png" width="180" height= "60">
 
-* **_AeroMexico , Passenger Services Agent_** _Jan 10- Dec 12 Mexico City, Internatinal Airport, Mexico_
-  * Inspected and verified passenger documentation, issued boarding passes and reschedule passengers affected by flight interruptions or cancellations
-  * Complied with all federal, state, municipal, airport authority and carrier security requirements
-  * Assisted passengers as needed through arrival and check in processes including support for passengers with special needs such as unaccompanied minors (UM), VIP passengers and passengers needing wheelchair assistance
   
